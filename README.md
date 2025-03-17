@@ -33,8 +33,7 @@ A API foi projetada para ser integrada a um aplicativo móvel ou web, proporcion
 ### Passo 1: Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/fila-digital-api.git
-cd fila-digital-api
+git clone https://github.com/Leon14789/UPX-V
 ```
 
 ## Passo 2: Instalar Dependências
@@ -45,9 +44,9 @@ composer install
 
 ## Passo 3: Configurar o Ambiente
 
-    Renomeie o arquivo .env.example para .env.
-    Configure as variáveis de ambiente no arquivo .env,
-    especialmente as relacionadas ao banco de dados:
+Renomeie o arquivo .env.example para .env.
+Configure as variáveis de ambiente no arquivo .env,
+especialmente as relacionadas ao banco de dados:
 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
